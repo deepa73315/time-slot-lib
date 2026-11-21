@@ -1,6 +1,6 @@
 {
   "name": "time-slot-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Determines if a UTC time falls inside recurring weekly windows in an IANA timezone.",
   "type": "module",
   "main": "src/index.js",
